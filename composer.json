@@ -1,0 +1,20 @@
+{
+    "name": "7d-digital/env-writer",
+    "description": "PHP implementation for writing to env files",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Withams",
+            "email": "dan@7d-digital.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "SevenD\\EnvWriter\\": "src/EnvWriter/"
+        }
+    }
+}
