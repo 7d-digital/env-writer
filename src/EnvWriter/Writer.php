@@ -1,4 +1,4 @@
-<?php namespace EnvWriter;
+<?php namespace SevenD\EnvWriter;
 
 class Writer
 {
